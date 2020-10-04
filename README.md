@@ -19,10 +19,13 @@
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
   </a> -->
 
+  <!-- <a href="https://github.com/jhonatheberson/easy-church/releases">
+        <img alt="GitHub release" src="https://img.shields.io/github/release/jhonatheberson/easy-church">
+  </a> -->
   <a href="https://github.com/jhonatheberson/digital-image-processing/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jhonatheberson/digital-image-processing">
   </a>
-    
+
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/jhonatheberson/digital-image-processing/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/jhonatheberson/digital-image-processing?style=social">
