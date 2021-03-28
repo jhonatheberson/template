@@ -15,8 +15,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/jhonatheberson/digital-image-processing">
 
-  <!-- <a href="https://www.twitter.com/tgmarinho/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
+  <!-- <a href="https://www.twitter.com/jhonatheberson/">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fjhonatheberson%2FREADME-ecoleta">
   </a> -->
 
   <a href="https://github.com/jhonatheberson/easy-church/releases">
@@ -89,7 +89,7 @@
 The application layout is available on Figma:
 
 <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Made by jhonatheberson" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
 ### Mobile
@@ -131,7 +131,7 @@ In addition, it is good to have an editor to work with the code like [VSCode](ht
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone git@github.com:jhonatheberson/README-ecoleta.git
 
 # Access the project folder cmd/terminal
 $ cd README-ecoleta
@@ -150,7 +150,7 @@ $ npm run dev:server
 ```
 
 <p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://github.com/jhonatheberson/digital-image-processing/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 #### Running the web application (Frontend)
@@ -158,7 +158,7 @@ $ npm run dev:server
 ```bash
 
 # Clone this repository
-$ git clone git@github.com: tgmarinho / README-ecoleta.git
+$ git clone git@github.com: jhonatheberson / README-ecoleta.git
 
 # Access the project folder in your terminal
 $ cd README-ecoleta
@@ -191,9 +191,9 @@ The following tools were used in the construction of the project:
 - **[React Leaflet](https://react-leaflet.js.org/)**
 - **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
 
-> See the file [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
+> See the file [package.json](https://github.com/jhonatheberson/README-ecoleta/blob/master/web/package.json)
 
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
+#### [](https://github.com/jhonatheberson/Ecoleta#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
 
 - **[Express](https://expressjs.com/)**
 - **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
@@ -205,9 +205,9 @@ The following tools were used in the construction of the project:
 - **[Celebrate](https://github.com/arb/celebrate)**
 - **[Joi](https://github.com/hapijs/joi)**
 
-> See the file [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/server/package.json)
+> See the file [package.json](https://github.com/jhonatheberson/README-ecoleta/blob/master/server/package.json)
 
-#### [](https://github.com/tgmarinho/Ecoleta#mobile-react-native--typescript)**Mobile** ([React Native](http://www.reactnative.com/) + [TypeScript](https://www.typescriptlang.org/))
+#### [](https://github.com/jhonatheberson/Ecoleta#mobile-react-native--typescript)**Mobile** ([React Native](http://www.reactnative.com/) + [TypeScript](https://www.typescriptlang.org/))
 
 - **[Expo](https://expo.io/)**
 - **[Expo Google Fonts](https://github.com/expo/google-fonts)**
@@ -219,9 +219,9 @@ The following tools were used in the construction of the project:
 - **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
 - **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
 
-> See the file [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/mobile/package.json)
+> See the file [package.json](https://github.com/jhonatheberson/README-ecoleta/blob/master/mobile/package.json)
 
-#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
+#### [](https://github.com/jhonatheberson/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
 - Prototype: **[Figma](https://www.figma.com/)** → **[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)**
 - API: **[IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)** → **[API de UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**, **[API de Municípios](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
@@ -281,7 +281,7 @@ You are an awesome team! :)
  <sub><b>Jhonat Heberson</b></sub></a> <a href="https://github.com/jhonatheberson" title="Github"></a>
  <br />
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho)  -->
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@jhonatheberson-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jhonatheberson)](https://twitter.com/jhonatheberson)  -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhonat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonat-heberson-64816616a/)](https://www.linkedin.com/in/jhonat-heberson-64816616a/)
 [![Gmail Badge](https://img.shields.io/badge/-jhonatheberson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatheberson@gmail.com)](mailto:jhonatheberson@gmail.com)
